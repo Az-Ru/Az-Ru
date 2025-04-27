@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning game dev and front-end dev!
+- 😄 Pronouns: he/she/they (any is fine)
+
 <!--
 **Az-Ru/Az-Ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
